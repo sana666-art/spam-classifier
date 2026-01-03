@@ -147,12 +147,6 @@ Open `spam_classifier.ipynb` in VS Code or Jupyter Notebook and run the cells se
 
 ---
 
-## 💬 Interview Explanation (One-Liner)
-
-> “I built a spam classification system using TF-IDF and Naive Bayes, achieving 97% accuracy while carefully handling class imbalance using stratified sampling.”
-
----
-
 ## 📜 License
 
 This project is for **educational and learning purposes**.
